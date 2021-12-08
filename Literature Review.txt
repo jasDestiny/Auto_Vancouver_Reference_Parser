@@ -1,0 +1,447 @@
+Paper 1
+Title: SmartCrowd: Novel Approach to Big Crowd Management using Mobile Cloud Computing
+Authors: Mohammed Fazil Ali, Abul Bashar and Asadullah Shah
+Methodology: 
+This paper presents a novel approach, SmartCrowd, utilizing the Mobile Cloud Computing (MCC) as a platform to find a solution to manage a large human crowd
+Advantages:
+Mobile Cloud Computing has multiple benefits such as affordability, cost effectiveness, time and resources reduction, maintenance reduction, continuous growth and adaptability with consumer needs.
+SmartCrowd system has the required features which can actually address most of the issues which were identified through a detailed research study.
+Drawbacks:
+Security concerns are not explicitly addressed, so the data in the system may be exposed to certain attacks.
+Literature review:
+The approach employed in this research to deal with network scalability is to employ a heterogenous tiered architecture with clustering of mobile devices.
+References:
+https://ieeexplore.ieee.org/abstract/document/7149656
+
+Paper 2
+Title: Cloud-based people counter
+Authors: Abd Kadir Mahamad, Sharifah Saon, Hamimi Hashim, Mohd  Anuaruddin  Ahmadon and Shingo Yamaguchi
+Methodology:
+he purpose of this project is  to  design a cloud-based people counter using Raspberry Pi embedded  system  and  send  the  received  data  to  ThingSpeak,  IoT  platform.
+Advantages:
+The methods proposed in this paper if implemented correctly can be a massive help in keeping track of the number of people in an area at real-time which can be used for various other processes
+Drawbacks:
+This project is not fully functional and produced a lot of incorrect data due to external factors like image quality. Therefore this great idea is not yet developed into a fully working system.
+Literature review:
+In this  project,  real-time  people  counter  system  using  Pi  camera  and  Raspberry  Pi  is  proposed. Thus, the camera is set up to be  hung  from  the  ceiling  to  get  a n  overhead  footage  of  people  entering or leaving the area  of research. Algorithm of counting the passing people is developed and being described. At the end of this project, the captured data are shared and analyzed on the cloud platform
+References:
+https://beei.org/index.php/EEI/article/view/1849/1281
+
+Paper 3 
+Title: Congestion Evaluation of Pedestrians in Metro Stations Based on Normal-Cloud Theory
+Authors: Jibiao Zhou, Yao Wu, Xinhua Mao, Shun Guo and Minjie Zhang 
+Methodology: 
+This study aims at evaluating the congestion level of pedestrians in metro stations. Twelve hours (4 h × three facilities) of video data were collected in the channel, stairway, and platform in a metro station in the city of Ningbo, China. The indicator of GPC (grade of pedestrian crowd) was proposed to quantify the congestion level of pedestrians.
+Advantages: 
+The results showed the effectiveness of the four-grade grading criterion of the GPC and further confirmed the applicability of the NC model in the assessment of GPC. Although the four-grade grading criterion was a special case in this study, the proposed assessing method of the GPC can be used in a universal way to determine the crowding status in metro stations.
+Drawbacks: 
+The survey was only conducted in the city of Ningbo, however, the operations of the urban rail transit system varied across cities. In some cities, such as Beijing, Shanghai, Guangzhou, and Hangzhou, urban rail transit networks have experienced rapid development and large-scale crowd events occur every day. The research method may not be suitable for these networks.
+Literature review: 
+ Four levels of congestion (level I, level II, level III, and level IV) were determined based on the GPC. A normal-cloud (NC) model was proposed and calibrated for the evaluation of three facilities including channel, stairway, and platform. The evaluation results showed that the GPC of L1-L2 and L2-L1 in channel are level II and level I, respectively. The GPC of upward and downward of stairway are level III and level I. The GPC of platform is level IV. Crowd management countermeasures were proposed for the management of pedestrians in metro station.
+References: 
+https://www.mdpi.com/2076-3417/9/17/3624/htm
+
+Paper 4
+Title: Wireless Sensor Network: A Possible Solution for Crowd Management
+Authors:  Jenny Kasudiya, Ankit Bhavsar and Harshal Arolkar
+Methodology: 
+This research paper proposes the use of a wireless sensor network for monitoring the crowd and their behaviour.
+Advantages: 
+Wireless Sensor Network (WSN) is scalable and hence can accommodate any new nodes or devices at any time. It is also flexible and hence open to physical partitions. All the WSN nodes can be accessed through centralized montoring system.
+
+Drawbacks: 
+As it is wireless in nature, it is prone to hacking by hackers. It cannot be used for highspeed communication as it is designed for low-speed applications.
+It is expensive to build such network and hence cannot be affordable by all.
+Literature review: 
+This paper tries to solve the problem crowd management using wireless sensor networks and tries to reduce the number of people gathered in a specific area and reduce the number of people per unit area. This will help control the crowdy streets in India.
+
+References: 
+https://link.springer.com/chapter/10.1007/978-981-13-8406-6_3
+
+Paper 5
+Title: Secure crowd-sensing protocol for fog-based vehicular cloud
+Authors: Lewis Nkenyereye, S.M. Riazul Islam, Muhammad Bilal, M.Abdullah-Al-Wadud, Atif Alamri and Anand Nayyar
+Methodology: 
+The proposed architecture is made by a double layer of fog nodes that is used to generate crowd-sensing tasks for vehicles, then collect, aggregate and analyze the data based on user specifications. 
+Advantages: 
+In this scheme, the privacy of the nodes within the system is guaranteed, the authentication is guaranteed by the ID-based signature that each vehicle generates in order to send crowd-sensing data.
+Drawbacks: 
+High cryptographic overhead to ensure the security and safety of the user.
+Literature review: 
+Presented in this work is a secure and privacy-preserving crowd-sensing scheme for fog-enabled vehicular computing. In this approach, fog node layer was used to generate and send the crowd-sensing tasks to the vehicles and to subsequently collect, aggregate and analyze the data based on the specifications of the data requester. We adopted ciphertext policy attribute-based encryption with access policy update (CP-ABE-PU) to guarantee data confidentiality, fined grained access control and secure data outsourcing. We adopted the ID-based signature tied to pseudonymous techniques to ensure the authentication and privacy-preservation of the entities in the system.
+References: 
+https://www.sciencedirect.com/science/article/abs/pii/S0167739X21000601
+
+Paper 6
+Title: Toward Understanding Crowd Mobility in Smart Cities through the Internet of Things
+Authors: Gurkan Solmaz, Fang-Jing Wu, Flavio Cirillo, Erno Kovacs, Juan Ramon Santana, Luis Sanchez, Pablo Sotres and Luis Munoz
+Methodology: 
+The article proposes the usage of the new federated interoperable semantic IoT platform (FIESTA-IoT), which is considered as “a system of systems.” The platform can support various IoT applications for crowd management in smart cities.
+Advantages: 
+Provides seamless interoperability and information transparency from IoT systems to crowd management applications because the crowd mobility outcomes are semantically annotated following the FIESTA-IoT ontology
+Drawbacks:
+ The current work focuses on fi nding insights into crowd mobility such as detecting crowdedness. However, understanding more complex crowd mobility behavior in a large-scale city area such as movements of groups (e.g., family) could be helpful for crowd management and enhancing smart mobility in cities.
+Literature review:
+ This article discusses the new advancements toward understanding crowd mobility in smart cities using IoT. While there are certain limitations, the CMAS and CCLS systems using the smart city platform offer improvements for more efficient crowd management. The pilot studies in the Gold Coast and Santander show the ability to fulfill various requirements and share information across stakeholders by leveraging the IoT technologies and infrastructure.
+References: 
+https://ieeexplore.ieee.org/abstract/document/8703462
+
+Paper 7
+Title: A Social-Driven Edge Computing Architecture for Mobile Crowd Sensing Management 
+Authors: Paolo Bellavista, Dimitri Belli, Stefano Chessa, and Luca Foschini.
+Methodology: 
+This article, through the joint use of HEC and MCS paradigms, introduces a new social-driven edge computing architecture based on incentives and centrality measures. The core idea is to add social MEC (SMEC) nodes to complement the traditional edge nodes (i.e., the main actors of the middle layer of the standard MEC architecture), acting as bridges between other devices and the cloud.
+Advantages: 
+The HEC model enhances the MEC middleware layer by supporting the effective deployment of fixed MEC (FMEC) proxies
+Drawbacks: 
+Latency is high in the proposed method.
+Literature review: 
+The synergistic use of MCS and MEC paradigms has given life to our social-driven edge computing architectural model. In this article they discuss the effectiveness of using centrality measures and cooperativeness scores of nodes to obtain efficient social mobile edge selection.
+References: 
+https://ieeexplore.ieee.org/abstract/document/8703468
+
+Paper 8
+Title: Crowdcloud: a crowdsourced system for cloud infrastructure.
+Authors: Mahmood Hosseini, Constantinos Marios Angelopoulos, Wei Koong Chai and Stephane Kundig.
+Methodology: 
+In this work, the authors introduce the paradigm of Crowdsourced Systems, systems whose constituent infrastructure, or a significant part of it, is pooled from the general public by following crowdsourcing methodologies.
+Advantages: 
+Crowdcloud is completely decentralised in its resource management, meaning that each cloud service provider (i.e., an individual or an organisation) in the crowdcloud environment is responsible for managing the cloud resources they have provided, and there is no central authority to manage all the provided resources on a crowdcloud platform.
+Drawbacks: 
+While the idea of crowdcloud can potentially offer several advantages to the clients of cloud services, it amplifies several already existing challenges in cloud service provisioning that should be addressed and introduces new challenges to this paradigm as well. Without appropriate consideration of these challenges, a successful, useful implementation of crowdcloud cannot be guaranteed.
+Literature review: 
+The authors introduced the new paradigm of Crowdsourced Systems; systems whose constituent infrastructure is pooled from the general public. While heavily relying on crowdsourcing, crowdsourced systems are not to be confused with crowdsourcing platforms. While the latter act as tools or mediators in order to access the crowd and consolidate its input, crowdsourced systems rely on crowd contributions to pool and augment their infrastructure.
+References: 
+https://link.springer.com/article/10.1007/s10586-018-2843-2
+
+
+
+Paper 9
+Title: A data aggregation based approach to exploit dynamic spatio-temporal correlations for citywide crowd flows prediction in fog computing
+Authors:  Ahmad Ali, Yanmin Zhu and Muhammad Zakarya 
+Methodology: 
+This paper proposes a dynamic deep hybrid spatio-temporal neural network namely DHSTNet, to predict traffic flows in every region of a city with high accuracy
+Advantages: 
+High accuracy over prevailing state-of-the-art baseline methods. Moreover, they apply the exaggeration approach based on an attention mechanism to the above model, called as AAtt-DHSTNet; to predict citywide short-term traffic crowd flows; and show its notable performance in the traffic flows prediction.
+Drawbacks: 
+In every prediction system, the training module requires significant time depending on the amount of data collected.
+Literature review: 
+The DSHTNet model comprises four properties i.e., closeness volume, daily volume, trend volume, and external branch, respectively. Moreover, the projected model dynamically assigns different weights to various branches and, then, integrate outputs of four properties to produce final prediction outcomes.
+References: 
+https://link.springer.com/article/10.1007/s11042-020-10486-4
+
+Paper 10
+Title: Incentive Mechanism Design for Edge-Cloud Collaboration in Mobile Crowd Sensing
+Authors: Lihan Zhang, Zhuo Li and Xin Chen
+Methodology: 
+This paper proposes a Pricing-based Incentive Mechanism for Edge-Cloud collaboration (PIM-EC) in mobile crowd sensing. In PIM-EC, data can be exchanged among different regions with the support of edge-cloud servers, which improves the data efficiency.
+Advantages: 
+The two-stage game design improves the response speed and data can be exchanged between different regions, so the data flow efficiency between different regions is optimized
+Drawbacks: 
+Incentive mechanism may not be applicable in all circumsances.
+Literature review: 
+For the utility conflicts between mobile sensing users and cloud servers in the traditional one-stage game, they design a two-stage game which includes the bargaining game between users and edge-cloud servers, as well as a data trading game among different edge-cloud servers deployed in different regions. For the first stage game, based on Stackelberg game model and Rubinstein bargaining model, the authors design a finite-period dynamic bargaining algorithm. For the second stage game, based on the optimal auction mechanism and using the augmented Lagrange multiplier method, a quasi-Newton iterative pricing algorithm is proposed.
+References: 
+https://ieeexplore.ieee.org/abstract/document/9162972
+
+Paper 11
+Title: AGCM: Active Queue Management-Based Green Cloud Model for Mobile Edge Computing
+Authors: Alshimaa H. Ismail, Nirmeen A. El-Bahnasawy and Hesham F. A. Hamed
+Methodology: 
+ In this paper, an “Active queue management-based green cloud model for mobile edge computing” referred to as ‘AGCM’ is proposed for 5G to address this issue, in which the mobile users are served more efficiently with less energy waste at both the cloud and the mobile devices and reduced latency.
+
+Advantages: 
+High throughput is achieved through the algorithm proposed.
+Drawbacks: 
+the AGCM algorithm developed in this paper considered only the energy consumption in the cloud and MDs, however, the MDs ofoading process and the transport network between the MDs and the cloud also consumes energy and both are a signifcant source of energy inefciency in the cloud
+Literature review: 
+The proposed model achieves this by alleviating the congestion in the cloud by utilizing the enhanced random early detection algorithm and implementing a virtual list to store the packets information and smartly prioritize and serve the packets. 
+References: 
+https://link.springer.com/article/10.1007/s11277-019-06119-1
+
+Paper 12
+Title: Augmented Queue-based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration
+Authors: Xingyan Chen, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong and Luigi Alfredo Grieco
+Methodology: 
+This paper proposes a novel stochastic approach that jointly optimizes the usage of transmission resources (e.g., bandwidth), and transcoding resources (e.g., CPU) in CLS systems that leverage the cooperation of Cloud, Edge, and Crowd technologies
+Advantages: 
+This solution provides lower system costs and higher QoE performance against state-of-the-art solutions.
+Drawbacks: 
+This might be complicated to implement in a real world system.
+
+Literature review: 
+ In this paper the authors first design an augmented queue structure that can jointly capture the dynamic features of data transmission and online transcoding, based on the virtual queue technology. Then, they formulate a joint resource allocation problem, using stochastic optimization arguments, and devise an Accelerated Gradient Optimization (AGO) algorithm to solve the optimization problem in a scalable way.
+References:
+https://ieeexplore.ieee.org/abstract/document/9309395
+
+Paper 13
+Title: Resource allocation optimization for delay-sensitive traffic in energy harvesting cloud radio access network
+Authors: Sijing Duan, Zhigang Chen and Deyu Zhang
+Methodology: 
+In this study, the authors study a sustainable resource allocation scheme for delay-sensitive applications in an energy harvesting (EH)-cloud radio access network (CRAN).
+Advantages: 
+The proposed algorithm can achieve close-to-optimal UE utility, bounded data buffer, delay-guarantee, and required battery capacity for the operation of the CRAN.
+Drawbacks: 
+Battery leakage when using the EH-CRAN method
+Literature review: 
+The authors formulate an optimisation problem to maximise the user equipment (UE) utility and provide them with strong delay-guarantee by jointly considering the stochastic EH process, dynamic wireless channel state. By using the Lyapunov stochastic network optimisation technique combined with virtual queues, the authors decompose the formulated problem into four sub-problems, including channel allocation, data dropping, UE request scheduling and energy management. Based on the solutions of these sub-problems, a UE optimal resource allocation algorithm is proposed to maximise UE utility while guaranteeing the delay bound and the sustainability of remote radio heads.
+References:
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-com.2017.0487
+
+Paper 14
+Title: Assessing the performances of a novel decentralized scheduling approach in Industry 4.0 and cloud manufacturing contexts
+Authors: Andrea Grassi, Guido Guizzi, Liberatina Carmela Santillo and Silvestro Vespoli
+Methodology: 
+This paper proposes a decentralised scheduling approach that improves the performance of production systems while minimising the usually high work-in-progress (WIP) requirements of the classic centralised scheduling and inventory production control system.
+Advantages: 
+The proposed low-level controller led to a productivity increase while delivering increased responsiveness.
+Drawbacks: 
+Does not consider any high-level architecture problems
+Literature review: 
+Uses a semi-heterarchical Manufacturing Planning and Control (MPC) architecture and integrates the Industry 4.0 innovation in a cloud manufacturing environment, this work contributes to the design of the lower level of the MPC architecture. The resulting production controller can allocate jobs following different dispatching rules dynamically.
+References:
+https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1799105
+
+
+
+Paper 15
+Title: A Comprehensive Survey of Load Balancing Strategies Using Hadoop Queue Scheduling and Virtual Machine Migration
+Authors: Niladri Sekhar Dey and T. Gunasekhar
+Methodology: 
+This work analyzes the characteristics of these algorithms with parametric metric. Further, realizing the demand to migrate the load balancing strategies to the cloud, this work analyses the Threshold Detection Policy as Inter Quartile Range, Local Regression, Median Absolute Deviation, Robust Local Regression and Static Threshold.
+Advantages: 
+We can see that the performance of robust local regression method for threshold determination and minimum migration time for the VM selection are proven to be the best for energy conservation 
+Drawbacks: 
+This paper just goes over the various available methods and doesn’t suggest an improvement on those methods.
+Literature review: 
+The work is intended to analyses the possible effects of these algorithm type combinations on different datasets, hence nearly 10 datasets are analyzed using Number of Traces, Location Information, Event Id, Node Id, Fault Code and Message as parameters for comparisons. Furthermore, this work deploys a standard metric for performance comparisons of the standard algorithms and presents the experimental results on various datasets using few metrics as Number of hosts, Number of VMs, Total simulation time, Energy consumption, Number of VM migrations, SLA degradation due to migration, Number of node shutdowns, mean time before a host shutdown, Mean time before a VM migration and Execution time.
+References:
+https://ieeexplore.ieee.org/abstract/document/8762113
+
+
+
+Paper 16
+Title: Online VM Auto-Scaling Algorithms for Application Hosting in a Cloud   
+Authors: Yang Guo, Alexander L. Stolyar and Anwar Walid  
+Methodology: 
+This paper aims to minimize the number of hosting PMs by intelligently packing VMs into PMs, while the VMs are auto-scaled, i.e., dynamically acquired and released, to accommodate varying application needs.
+Advantages: 
+The algorithm proposed has good performance and high adaptivity.
+Drawbacks: 
+There is an issue of how to scale resources to reduce the number of VM boots and tear-downs.
+Literature review: 
+This paper proposes a shadow routing-based approach for this problem. The proposed shadow algorithm employs a specially constructed virtual queueing system to dynamically produce an optimal solution that guides the VM auto-scaling and the VM-to-PM packing. The proposed algorithm runs continuously without the need to re-solve the underlying optimization problem “from scratch”, and adapts automatically to the changes in the application demands. 
+References:
+https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=920743
+
+Paper 17
+Title: Put Deep Learning to Work: Accelerate Deep Learning through Amazon SageMaker and ML Services
+Authors: Wenming Ye, Rachel Hu and Miro Enev
+Methodology: 
+This paper offers a practical next step in DL learning with instructions, and hands-on labs using the latest Nvidia GPUs and AWS Inferentia.
+Advantages: 
+Acts as a guide for new learners
+Drawbacks: 
+Doesn’t go further than being a guide
+Literature review: 
+This paper helps explore the current trends powering AI/DL adoption, powerful new GPU/AWS Inferentia accelerator instances, distributed training and inference optimization in neural networks.
+References:
+https://dl.acm.org/doi/abs/10.1145/3394486.3406698
+
+Paper 18
+Title: MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving
+Authors: Chengliang Zhang, Minchen Yu, and Wei Wang
+Methodology: 
+In this paper, the authors tackle the dual challenge of SLO compliance and cost effectiveness with MArk (Model Ark), a general-purpose inference serving system built in Amazon Web Services (AWS).
+Advantages: 
+Improved performance and reduced cost
+Drawbacks: 
+Doesn’t go deep into the deployment of the tools mentioned.
+Literature review: 
+MArk employs three design choices tailor-made for inference workload. First, MArk dynamically batches requests and opportunistically serves them using expensive hardware accelerators (e.g., GPU) for improved performance-cost ratio. Second, instead of relying on feedback control scaling or over-provisioning to serve dynamic workload, which can be too slow or too expensive for inference serving, MArk employs predictive autoscaling to hide the provisioning latency at low cost. Third, given the stateless nature of inference serving, MArk exploits the flexible, yet costly serverless instances to cover the occasional load spikes that are hard to predict.
+References:
+https://www.usenix.org/conference/atc19/presentation/zhang-chengliang
+
+Paper 19
+Title: BATCH: Machine Learning Inference Serving on Serverless Platforms with Adaptive Batching 
+Authors: Ahsan Al, Riccardo Pinciroli, Feng Yan and Evgenia Smirni
+Methodology: 
+In this paper, they present BATCH, a framework for supporting efficient machine learning serving on serverless platforms.
+Advantages: 
+Performance and cost advantages over the state-of-the-art method MArk and the state-of-the-practice tool SageMaker.
+Drawbacks: 
+The process is not optimized
+Literature review: 
+BATCH uses an optimizer to provide inference tail latency guarantees and cost optimization and to enable adaptive batching support. They prototype BATCH atop of AWS Lambda and popular machine learning inference systems
+References:
+https://www.cse.unr.edu/~fyan/Paper/Feng-SC20-BATCH.pdf
+
+Paper 20
+Title: Statistical analysis of Amazon EC2 cloud pricing models 
+Authors: Gustavo Portella, Genaina N. Rodrigues, Eduardo Nakano and Alba C.M.A. Melo
+Methodology: 
+In this paper, they conduct statistical analyses for two Amazon cloud pricing models: on demand and spot.
+
+Advantages: 
+Provides in depth analysis on the pricing models
+Drawbacks: 
+Analysis done only for a day’s data
+Literature review: 
+On demand cloud instances are charged a fixed price and can only be terminated by the user, with very high availability. On the other hand, spot instances are charged a dynamic price determined by a market-driven model and can be revoked by the provider when the spot price becomes higher than the user-defined price, having possibly low availability. Their analysis for on-demand instances resulted in multiple linear regression equations that represent the influence of characteristics of the processor and RAM memory in the composition of the price of different types of instances available on the Amazon EC2 provider. In order to analyze the Amazon spot pricing, they used time-smoothed moving averages by 12-hour periods, aiming to provide a price-availability trade-off to the user.
+References:
+https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4451
+
+Paper 21
+Title: An Empirical Analysis of Amazon EC2 Spot Instance Features Affecting Cost-Effective Resource Procurement
+Authors: Cheng Wang, Qianlin Liang and Bhuvan Urgaonkar
+Methodology: 
+The authors empirically study four features of EC2 spot instance operation that a cost-conscious tenant may find useful to model.
+Advantages: 
+Gives clear insight into the spot instances
+Drawbacks: 
+The proposed method may not be useable by everyone
+
+
+Literature review: 
+Using extensive evaluation based on historical spot instance data, they show shortcomings in the state-of-the-art modeling of these features that we overcome. Also they conduct data analysis on a rich dataset of the latest spot price traces collected from a variety of EC2 spot markets
+References:
+https://dl.acm.org/doi/abs/10.1145/3164538
+
+Paper 22
+Title: Reducing the price of resource provisioning using EC2 spot instances with prediction models
+Authors: Javier Fabra, Joaquín Ezpeleta and Pedro Álvarez
+Methodology: 
+ In this work they present a framework for the analysis of the EC2 SIs infrastructure that uses the price history of such resources in order to classify the SI availability zones and then generate price prediction models adapted to each class.
+Advantages: 
+This framework allows an automated process of data collection and processing of the available spot prices. Based on these data, an analysis is carried out to classify the availability zones, generating a series of well-differentiated zones classes through a clustering process
+Drawbacks: 
+These models does not apply to the newer versions of Amazon EC2
+Literature review: 
+In this work they propose the analysis of Amazon EC2 Spot Instances mechanisms to provide a history-based pricing model allowing final users to predict Amazon SI prices for the different availability zones. To this end, they have built a system that analyzes price variations on all regions and zones where SIs are offered. As a result, different models for price prediction are provided for the different zones. These models rely on the historic fluctuations of the SI market
+
+References:
+https://www.sciencedirect.com/science/article/abs/pii/S0167739X1831166X
+
+
+Paper 23
+Title: A Tree Method for Managing Documents in Mongodb
+Authors: Abbas Kh. Ibrahim, Mohammad H. Abdulwahab, Maiwan B. Abdulrazzaq and Mayyadah R. Mahmood2
+Methodology: 
+In this research, it is suggested to use the tree to represent and manipulate the information of each entity separate from that of other entities in the same collection
+Advantages: 
+Easy navigation between documents, the use of the developed tool does not require a deep knowledge of information science. The end-user can use it with ease.
+Drawbacks: 
+The real-time use of this tool is questionable
+Literature review: 
+This method represents each field name and field value as a node. In addition to the fact that the embedded documents are represented in the form of an embedded tree, this method facilitates the representation and handling of any structure of the document. A document management tool has also been built on the proposed managing MongoDB documents.
+References:
+https://www.researchgate.net/profile/Abbas-Ibrahim-4/publication/344230347_A_Tree_Method_for_Managing_Documents_in_Mongodb/links/5f745c4c458515b7cf58f06c/A-Tree-Method-for-Managing-Documents-in-Mongodb.pdf
+
+
+Paper 24
+Title: Tunable consistency in MongoDB 
+Authors: William Schultz, Tess Avitabile and Alyson Cabral
+Methodology: 
+In this paper they discuss the tunable consistency models in MongoDB replication and their utility for application developers.
+Advantages: 
+Elaborates on the consistency aspect of mongoDB.
+Drawbacks: 
+It is just a discussion and no new methodology is proposed
+Literature review: 
+They discuss how the MongoDB replication system's speculative execution model and data rollback protocol help make this spectrum of consistency levels possible. We also present case studies of how these consistency levels are used in real world applications, along with a characterization of their performance benefits and trade-offs.
+References:
+https://dl.acm.org/doi/abs/10.14778/3352063.3352125
+
+
+Paper 25
+Title: Serverless Node with AWS Lambda
+Authors: Azat Mardan
+Methodology: 
+This paper describes the serverless type of implementation usin ASWS lambda
+Advantages: 
+Unlike EC2, AWS Lambda doesn’t have to run all the time. This way with Lambda, your company will pay only for actual use (compute) time. In other times when there’s 0 traffic, it won’t be charged at all
+
+Drawbacks: 
+Lots of learning needed technically
+Literature review: 
+Helps you know that Lambda stack will require almost no maintenance because AWS manages its app environment.
+References:
+https://link.springer.com/chapter/10.1007/978-1-4842-3039-8_16
+
+Paper 26
+Title:	From Elastic Beanstalk to Lambda: A comparative case study on the AWS tools
+Authors: Aapakallio-Autio and Riku
+Methodology: 
+In this thesis they implement a contemporary serverless REST API for the Iltalehti news media through transformation from a more traditional web server version.
+Advantages: 
+The proposed solution would reduce expected costs by 99 \%.
+Drawbacks: 
+Not everyone may prefer serverless implementation.
+Literature review: 
+The authors implemented the actual transformation and compared this new implementation to our previous, more traditional approach. The main finding of this study was that it is quite simple to lift and shift existing services to serverless infrastructure.
+References:
+https://aaltodoc.aalto.fi/handle/123456789/109366
+
+
+
+Paper 27
+Title: Serverless execution of scientific workflows: Experiments with HyperFlow, AWS Lambda and Google Cloud Functions
+Authors: Maciej Malawski, Adam Gajek, Adam Zima, Bartosz Balis and Kamil Figiela
+Methodology: 
+In this paper they take a look at such serverless infrastructures, which are designed mainly for processing background tasks of Web and Internet of Things applications, or event-driven stream processing
+Advantages: 
+These functions can run workflow tasks in AWS and Google infrastructures, and feature such capabilities as data staging to/from S3 or Google Cloud Storage and execution of custom application binaries.
+Easy to use
+Drawbacks: 
+Cost involved in preparing portable application.
+Performance analysis is not very detailed
+Literature review: 
+The article evaluates their applicability to more compute- and data-intensive scientific workflows and discuss possible ways to repurpose serverless architectures for execution of scientific workflows. They have developed prototype workflow executor functions using AWS Lambda and Google Cloud Functions, coupled with the HyperFlow workflow engine.
+References:
+https://www.sciencedirect.com/science/article/abs/pii/S0167739X1730047X
+
+
+Paper 28
+Title: Serverless computing for container-based architectures
+Authors: Alfonso Pérez, Germán Moltó, Miguel Caballer and Amanda Calatrava
+
+Methodology: 
+This paper describes the architecture of SCAR together with the cache-based optimizations applied to minimize cost, exemplified on a massive image processing use case.
+Advantages: 
+The results show that, by means of SCAR, AWS Lambda becomes a convenient platform for High Throughput Computing, especially for highly-parallel bursty workloads of short stateless jobs.
+Drawbacks: 
+High dependance on udocker
+Literature review: 
+This paper has introduced SCAR, a framework to execute container-based applications using serverless computing, exemplified using Docker as the technology for containers and AWS Lambda as the underlying serverless platform. This is a step forward contribution to the state of the art, implemented in an opensource framework, that opens new avenues for adopting serverless computing for a myriad of scientific applications distributed as Docker images.
+References:
+https://www.sciencedirect.com/science/article/abs/pii/S0167739X17316485
+
+Paper 29
+Title: Formal Foundations of Serverless Computing
+Authors: ABHINAV JANGDA, DONALD PINCKNEY, YURIY BRUN and ARJUN GUHA
+Methodology: 
+This paper sheds light on this problem by presenting λ , an operational semantics of the essence of serverless computing
+Advantages: 
+Gives a foundation to build a serverless product
+Drawbacks: 
+Practical implementation is not tested.
+Literature review: 
+Despite being a small (half a page) core calculus, λ models all the low-level details that serverless functions can observe. To show that λ is useful, we present three applications. First, to ease reasoning about code, they present a simplified naive semantics of serverless execution and precisely characterize when the naive semantics and λ coincide. Second, they augment λ with a key-value store to allow reasoning about stateful serverless functions. Third, since a handful of serverless platforms support serverless function composition, we show how to extend λ with a composition language and show that our implementation can outperform prior work.
+References:
+https://dl.acm.org/doi/abs/10.1145/3360575
+
+Paper 30
+Title: A Traffic Analysis on Serverless Computing Based on the Example of a File Upload Stream on AWS Lambda 
+Authors: Lisa Muller, Christos Chrysoulas, Nikolaos Pitropakis and Peter J. Barclay 
+Methodology: 
+The research shows how the numbers have changed in comparison to earlier related work, as Serverless is a fast-growing field of development. Furthermore, emphasis is given towards future research to improve the technology, algorithms, and support for developers.
+Advantages: 
+A Serverless environment facilitates system administration operations for basic services, as it suits the event-driven, reactive programming of today with faster development and automated code execution
+Drawbacks: 
+It is not suitable for latency-sensitive applications yet.
+Literature review: 
+Provides a current snapshot of AWS’s practices regarding traffic allocation and to update previous findings in research.
+References:
+https://www.mdpi.com/2504-2289/4/4/38
+
+

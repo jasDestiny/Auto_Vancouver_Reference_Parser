@@ -1,0 +1,60 @@
+1. Mohammed Fazil Ali, Abul Bashar and Asadullah Shah Methodology.  SmartCrowd. Link: https://ieeexplore.ieee.org/abstract/document/7149656.
+
+2. Abd Kadir Mahamad, Sharifah Saon, Hamimi Hashim, Mohd  Anuaruddin  Ahmadon and Shingo Yamaguchi Methodology.  Cloud-based people counter Authors. Link: https://beei.org/index.php/EEI/article/view/1849/1281.
+
+3. Jibiao Zhou, Yao Wu, Xinhua Mao, Shun Guo and Minjie Zhang  Methodology.  Congestion Evaluation of Pedestrians in Metro Stations Based on Normal-Cloud Theory Authors. Link: .
+
+4.  Jenny Kasudiya, Ankit Bhavsar and Harshal Arolkar Methodology.  Wireless Sensor Network. Link: .
+
+5. Lewis Nkenyereye, S.M. Riazul Islam, Muhammad Bilal, M.Abdullah-Al-Wadud, Atif Alamri and Anand Nayyar Methodology.  Secure crowd-sensing protocol for fog-based vehicular cloud Authors. Link: .
+
+6. Gurkan Solmaz, Fang-Jing Wu, Flavio Cirillo, Erno Kovacs, Juan Ramon Santana, Luis Sanchez, Pablo Sotres and Luis Munoz Methodology.  Toward Understanding Crowd Mobility in Smart Cities through the Internet of Things Authors. Link: .
+
+7. Paolo Bellavista, Dimitri Belli, Stefano Chessa, and Luca Foschini. Methodology.  A Social-Driven Edge Computing Architecture for Mobile Crowd Sensing Management  Authors. Link: .
+
+8. Mahmood Hosseini, Constantinos Marios Angelopoulos, Wei Koong Chai and Stephane Kundig. Methodology.  Crowdcloud. Link: .
+
+9.  Ahmad Ali, Yanmin Zhu and Muhammad Zakarya  Methodology.  A data aggregation based approach to exploit dynamic spatio-temporal correlations for citywide crowd flows prediction in fog computing Authors. Link: .
+
+10. Lihan Zhang, Zhuo Li and Xin Chen Methodology.  Incentive Mechanism Design for Edge-Cloud Collaboration in Mobile Crowd Sensing Authors. Link: .
+
+11. Alshimaa H. Ismail, Nirmeen A. El-Bahnasawy and Hesham F. A. Hamed Methodology.  AGCM. Link: .
+
+12. Xingyan Chen, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong and Luigi Alfredo Grieco Methodology.  Augmented Queue-based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration Authors. Link: https://ieeexplore.ieee.org/abstract/document/9309395.
+
+13. Sijing Duan, Zhigang Chen and Deyu Zhang Methodology.  Resource allocation optimization for delay-sensitive traffic in energy harvesting cloud radio access network Authors. Link: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-com.2017.0487.
+
+14. Andrea Grassi, Guido Guizzi, Liberatina Carmela Santillo and Silvestro Vespoli Methodology.  Assessing the performances of a novel decentralized scheduling approach in Industry 4.0 and cloud manufacturing contexts Authors. Link: https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1799105.
+
+15. Niladri Sekhar Dey and T. Gunasekhar Methodology.  A Comprehensive Survey of Load Balancing Strategies Using Hadoop Queue Scheduling and Virtual Machine Migration Authors. Link: https://ieeexplore.ieee.org/abstract/document/8762113.
+
+16. Yang Guo, Alexander L. Stolyar and Anwar Walid   Methodology.  Online VM Auto-Scaling Algorithms for Application Hosting in a Cloud    Authors. Link: https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=920743.
+
+17. Wenming Ye, Rachel Hu and Miro Enev Methodology.  Put Deep Learning to Work. Link: https://dl.acm.org/doi/abs/10.1145/3394486.3406698.
+
+18. Chengliang Zhang, Minchen Yu, and Wei Wang Methodology.  MArk. Link: https://www.usenix.org/conference/atc19/presentation/zhang-chengliang.
+
+19. Ahsan Al, Riccardo Pinciroli, Feng Yan and Evgenia Smirni Methodology.  BATCH. Link: https://www.cse.unr.edu/~fyan/Paper/Feng-SC20-BATCH.pdf.
+
+20. Gustavo Portella, Genaina N. Rodrigues, Eduardo Nakano and Alba C.M.A. Melo Methodology.  Statistical analysis of Amazon EC2 cloud pricing models  Authors. Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4451.
+
+21. Cheng Wang, Qianlin Liang and Bhuvan Urgaonkar Methodology.  An Empirical Analysis of Amazon EC2 Spot Instance Features Affecting Cost-Effective Resource Procurement Authors. Link: https://dl.acm.org/doi/abs/10.1145/3164538.
+
+22. Javier Fabra, Joaquín Ezpeleta and Pedro Álvarez Methodology.  Reducing the price of resource provisioning using EC2 spot instances with prediction models Authors. Link: https://www.sciencedirect.com/science/article/abs/pii/S0167739X1831166X.
+
+23. Abbas Kh. Ibrahim, Mohammad H. Abdulwahab, Maiwan B. Abdulrazzaq and Mayyadah R. Mahmood2 Methodology.  A Tree Method for Managing Documents in Mongodb Authors. Link: https://www.researchgate.net/profile/Abbas-Ibrahim-4/publication/344230347_A_Tree_Method_for_Managing_Documents_in_Mongodb/links/5f745c4c458515b7cf58f06c/A-Tree-Method-for-Managing-Documents-in-Mongodb.pdf.
+
+24. William Schultz, Tess Avitabile and Alyson Cabral Methodology.  Tunable consistency in MongoDB  Authors. Link: https://dl.acm.org/doi/abs/10.14778/3352063.3352125.
+
+25. Azat Mardan Methodology.  Serverless Node with AWS Lambda Authors. Link: https://link.springer.com/chapter/10.1007/978-1-4842-3039-8_16.
+
+26. Aapakallio-Autio and Riku Methodology. 	From Elastic Beanstalk to Lambda. Link: https://aaltodoc.aalto.fi/handle/123456789/109366.
+
+27. Maciej Malawski, Adam Gajek, Adam Zima, Bartosz Balis and Kamil Figiela Methodology.  Serverless execution of scientific workflows. Link: https://www.sciencedirect.com/science/article/abs/pii/S0167739X1730047X.
+
+28. Alfonso Pérez, Germán Moltó, Miguel Caballer and Amanda Calatrava  Methodology.  Serverless computing for container-based architectures Authors. Link: https://www.sciencedirect.com/science/article/abs/pii/S0167739X17316485.
+
+29. ABHINAV JANGDA, DONALD PINCKNEY, YURIY BRUN and ARJUN GUHA Methodology.  Formal Foundations of Serverless Computing Authors. Link: https://dl.acm.org/doi/abs/10.1145/3360575.
+
+30. Lisa Muller, Christos Chrysoulas, Nikolaos Pitropakis and Peter J. Barclay  Methodology.  A Traffic Analysis on Serverless Computing Based on the Example of a File Upload Stream on AWS Lambda  Authors. Link: https://www.mdpi.com/2504-2289/4/4/38.
+
